@@ -58,4 +58,4 @@ Creates ZIP backups of the entire folder before processing.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-file-organizer.git
+git clone https://github.com/flynnmaxweld/smart-file-organizer.git
